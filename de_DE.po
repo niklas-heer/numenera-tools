@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: numenera-tools 1.0.0\n"
+"Report-Msgid-Bugs-To: me@nheer.io \n"
+"Last-Translator: Niklas Heer <me@nheer.io>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Numenera Playground"
+msgstr "Numenera Werkzeugkasten"
+
+msgid "Characters"
+msgstr "Charaktere"
+
+msgid "Creatures"
+msgstr "Kreaturen"
+
+msgid "Names"
+msgstr "Namen"
+
+msgid "Oddities"
+msgstr "Kuriositäten"
+
+msgid "Rumours"
+msgstr "Gerüchte"
+
+msgid "Philethis Phrases"
+msgstr "Philethis Phrasen"
+
+msgid "Rust Cyphers"
+msgstr "Rust Cypher"
+
+msgid "About"
+msgstr "Über uns"
+
+msgid "Copyright"
+msgstr "Impressum"
