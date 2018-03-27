@@ -115,7 +115,7 @@
           <ul class="mdl-list" v-if="allArtifacts.length > 0">
             <li class="mdl-list__item" v-for="item in allArtifacts">{{ item }}</li>
           </ul>
-          <h4 v-if="allOddities.length > 0">Oddities</h4>
+          <h4 v-if="allOddities.length > 0">Kuriositäten</h4>
           <ul class="mdl-list" v-if="allOddities.length > 0">
             <li class="mdl-list__item" v-for="item in allOddities">{{ item }}</li>
           </ul>

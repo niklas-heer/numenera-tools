@@ -2,7 +2,7 @@
   <div id="about">
     <div class="mdl-card">
       <header class="mdl-card__title">
-        <h2 class="mdl-card__title-text">About</h2>
+        <h2 class="mdl-card__title-text">Über uns</h2>
       </header>
       <div class="mdl-card__supporting-text">
         <p>

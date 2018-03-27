@@ -11,7 +11,7 @@ spinner.start()
 
 var file = fs.readFileSync(path.join(dir, 'names.txt'), 'utf8')
 var ngramModel = generateModel(file, {
-    name: 'Names',
+    name: 'Namen',
     filter: 'noSymbols',
     n: 3,
     minLength: 4,

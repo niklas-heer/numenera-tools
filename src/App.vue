@@ -22,15 +22,15 @@ export default {
   },
   data () {
     return {
-      title: 'Numenera Tools',
+      title: 'Numenera Werkzeugkasten',
       sidenav: [
         {
-          text: 'Characters',
+          text: 'Charaktere',
           href: pathPrefix + 'characters',
           icon: 'person'
         },
         {
-          text: 'Creatures',
+          text: 'Kreaturen',
           href: pathPrefix + 'creatures',
           icon: 'bug_report'
         },
@@ -40,34 +40,34 @@ export default {
           icon: 'build'
         }, */
         {
-          text: 'Names',
+          text: 'Namen',
           href: pathPrefix + 'names',
           icon: 'face'
         },
         {
-          text: 'Oddities',
+          text: 'Kuriositäten',
           href: pathPrefix + 'oddities',
           icon: 'help'
         },
         {
-          text: 'Rumours',
+          text: 'Gerüchte',
           href: pathPrefix + 'rumours',
           icon: 'speaker_notes'
         },
         {
-          text: 'Philethis Phrases',
+          text: 'Philethis Phrasen',
           href: pathPrefix + 'philethis',
           icon: 'chat_bubble'
         },
         {
-          text: 'Rust Cyphers',
+          text: 'Rust Cypher',
           href: pathPrefix + 'rust-cyphers',
           icon: 'warning'
         }
       ],
       topnav: [
         {
-          text: 'About',
+          text: 'Über diese Seite',
           href: pathPrefix + 'about'
         },
         {

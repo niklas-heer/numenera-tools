@@ -24,22 +24,22 @@ const router = new Router({
     },
     {
       path: pathPrefix + 'characters',
-      name: 'Characters',
+      name: 'Charaktere',
       component: Characters
     },
     {
       path: pathPrefix + 'creatures',
-      name: 'Creatures',
+      name: 'Kreaturen',
       component: Creatures
     },
     {
       path: pathPrefix + 'rumours',
-      name: 'Rumours',
+      name: 'Gerüchte',
       component: Rumours
     },
     {
       path: pathPrefix + 'oddities',
-      name: 'Oddities',
+      name: 'Kuriositäten',
       component: Oddities
     },
     {
@@ -49,17 +49,17 @@ const router = new Router({
     },
     {
       path: pathPrefix + 'names',
-      name: 'Names',
+      name: 'Namen',
       component: Names
     },
     {
       path: pathPrefix + 'rust-cyphers',
-      name: 'Rust Cyphers',
+      name: 'Rust Cypher',
       component: RustCyphers
     },
     {
       path: pathPrefix + 'about',
-      name: 'About',
+      name: 'Über uns',
       component: About
     },
     {
