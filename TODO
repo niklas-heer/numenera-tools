@@ -1,0 +1,31 @@
+Site: https://darkliquid.co.uk/playground/numenera
+
+General:
+    ☐ Dockerize it
+    ☐ Create CD for it
+    ✔ Buy domain numenera.net @done(18-03-27 23:09)
+    ✔ Create domain for it @done(18-03-27 23:32)
+    ☐ Link the homepage
+
+Translation:
+    General:
+        ☐ integrate vue-gettext
+    Specific:
+        ✔ menu points @done(18-03-27 23:09)
+        ☐ about page
+        ☐ copyright page
+        ☐ name page
+        ☐ character page
+        ☐ creature page
+        ☐ philethis page
+        ☐ rumours page
+        ☐ oddities page
+        ☐ (rust) cypher page
+
+Fixes:
+    ☐ Click on title -> redirect to homepage
+
+Questions:
+    ☐ What to do with the Rust Cyphers?
+        > https://www.drivethrurpg.com/product/185316/Rusthaven-An-Iron-Wind-Sourcebook-for-Numenera?affiliate_id=201046&src=rust-cypher-gen
+    ☐ Licencing ok with the domain?
