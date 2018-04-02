@@ -6,17 +6,19 @@
       </header>
       <div class="mdl-card__supporting-text">
         <p>
-          Hello, my name is <strong>darkliquid</strong> and I made all these tools
-          to help me, and you, run games of Numenera, one of my favourite table-top
-          roleplaying games.
+          Dies ist eine Übersetzung des tools von <a href="http://darkliquid.co.uk"><strong>darkliquid</strong></a>.
+          <br />
+          Diese Seite soll euch helfen eigene Numenera Runden zu leiten, eines der coolsten Pen and Paper Spiele der letzten Jahre.
+          <br />
+          Die Seite wurde von <strong>Niklas Heer</strong> übersetzt.
         </p>
         <p>
-          I've also worked on a number of published Numenera supplements, which
-          you can find on <a href="http://www.drivethrurpg.com/browse.php?x=0&y=0&author=Andrew%20Montgomery-Hurrell&affiliate_id=201046">drivethrurpg</a> if you're interested, the proudest achievement
-          among them being <a href="http://www.drivethrurpg.com/product/185316/Rusthaven-An-Iron-Wind-Sourcebook-for-Numenera?affiliate_id=201046">Rusthaven</a>.
+          Publikationen von darkliquid:
+          <ul>
+            <li>Eine Liste auf <a href="http://www.drivethrurpg.com/browse.php?x=0&y=0&author=Andrew%20Montgomery-Hurrell&affiliate_id=201046">drivethrurpg</a></li>
+            <li><a href="http://www.drivethrurpg.com/product/185316/Rusthaven-An-Iron-Wind-Sourcebook-for-Numenera?affiliate_id=201046">Rusthaven</a></li>
+          </ul>
         </p>
-        <p>
-          If you care to follow along with the things I'm doing, you can <a href="http://darkliquid.co.uk">read my blog</a> or <a href="http://twitter.com/darkliquid">follow me on twitter</a>.
       </div>
     </div>
   </div>
